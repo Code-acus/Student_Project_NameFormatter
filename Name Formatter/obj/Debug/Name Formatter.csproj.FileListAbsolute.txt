@@ -1,0 +1,11 @@
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name Formatter.csproj.AssemblyReference.cache
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name Formatter.csproj.SuggestedBindingRedirects.cache
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name_Formatter.Form1.resources
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name_Formatter.Properties.Resources.resources
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name Formatter.csproj.GenerateResource.cache
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name Formatter.csproj.CoreCompileInputs.cache
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\bin\Debug\Name Formatter.exe.config
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\bin\Debug\Name Formatter.exe
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\bin\Debug\Name Formatter.pdb
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name Formatter.exe
+C:\Users\hrogers\source\repos\Student_Project_NameFormatter\Name Formatter\obj\Debug\Name Formatter.pdb
